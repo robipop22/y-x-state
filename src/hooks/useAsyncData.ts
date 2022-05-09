@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-import { Book, GeneralError } from '../interfaces/';
+import { Book } from '../interfaces/';
 
 type ExpectedResponse = Book[];
 

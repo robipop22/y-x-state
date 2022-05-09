@@ -9,9 +9,11 @@
     "lint": "eslint --cache --cache-location ./node_modules/.cache/eslint ."
   },
   "dependencies": {
+    "@xstate/react": "^3.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-trafficlight": "^5.2.1"
+    "react-trafficlight": "^5.2.1",
+    "xstate": "^4.32.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",

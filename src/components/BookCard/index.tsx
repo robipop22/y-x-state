@@ -17,7 +17,9 @@ const BookCard: FC<Book> = ({
     {longDescription && <p className="text-white">{longDescription}</p>}
     {thumbnailUrl && <img className="my-5" src={thumbnailUrl} alt={title} />}
     {authors.map(author => (
-      <p className="text-white text-sm">{author}</p>
+      <p key={author} className="text-white text-sm">
+        {author}
+      </p>
     ))}
   </div>
 );

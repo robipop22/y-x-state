@@ -215,7 +215,7 @@ const books: Book[] = [
   },
   {
     title: 'Distributed Application Development with PowerBuilder 6.0',
-    isbn: '1884777686',
+    isbn: '222135898X',
     pageCount: 504,
     publishedDate: { $date: '1998-06-01T00:00:00.000-0700' },
     longDescription:
@@ -226,7 +226,7 @@ const books: Book[] = [
   },
   {
     title: 'Jaguar Development with PowerBuilder 7',
-    isbn: '1884777864',
+    isbn: '1884777864111',
     pageCount: 550,
     publishedDate: { $date: '1999-08-01T00:00:00.000-0700' },
     thumbnailUrl: 'https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/barlotta2.jpg',
@@ -2249,7 +2249,7 @@ const books: Book[] = [
   },
   {
     title: 'SQL Server MVP Deep Dives',
-    isbn: '9781935182047',
+    isbn: '97819351820472222',
     pageCount: 848,
     publishedDate: { $date: '2009-11-15T00:00:00.000-0800' },
     thumbnailUrl: 'https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/nielsenaw.jpg',

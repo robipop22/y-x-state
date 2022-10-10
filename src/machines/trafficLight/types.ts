@@ -1,3 +1,3 @@
 export interface TrafficLightsEvent {
-  type: 'NEXT';
+	type: 'NEXT';
 }

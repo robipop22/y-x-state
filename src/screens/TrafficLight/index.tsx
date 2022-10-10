@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { useMachine } from '@xstate/react';
 import TrafficLight from 'react-trafficlight';
 

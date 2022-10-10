@@ -1,8 +1,8 @@
-import BookCard from '../../components/BookCard';
+import BookCard from '~/components/BookCard';
 
-import booksMachine from '../../machines/books/index';
+import booksMachine from '~/machines/books/index';
 
-import Spinner from '../../components/Spinner';
+import Spinner from '~/components/Spinner';
 
 const BooksScreen = () => {
   return (
